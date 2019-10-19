@@ -13,6 +13,7 @@ Fall 2019 – Term 1
 
 Week 8 – Final Project
 
+
 In this program (App.java), I intended to create a fun demo of sample design patterns 
 studied in Object Oriented Development at Lewis University.  I used the Observer, Decorator, 
 Factory, and Template patterns to display, via JavaFX, two sprite cars (one controlled by 
