@@ -6,6 +6,7 @@ Grad Student at Lewis University
 For Instructor Michael J. Nowak
 Object Oriented Development
 Fall 2019 – Term 1
+
 Week 8 – Final Project
 
 In this program (App.java), I intended to create a fun demo of sample design patterns 
