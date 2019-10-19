@@ -1,11 +1,15 @@
 # lewis-ood-final_project
 An original, simple JavaFX car-racing simulator that demo's 4 design patterns.
 
-Stephen W. Montague
-Grad Student at Lewis University
-For Instructor Michael J. Nowak
-Object Oriented Development
-Fall 2019 – Term 1
+Stephen W. Montague 
+
+Grad Student at Lewis University 
+
+For Instructor Michael J. Nowak 
+
+Object Oriented Development 
+
+Fall 2019 – Term 1 
 
 Week 8 – Final Project
 
