@@ -1,21 +1,8 @@
 # lewis-ood-final_project
 An original, simple JavaFX car-racing simulator that demo's 4 design patterns.
 
-Stephen W. Montague 
-
-Grad Student at Lewis University 
-
-For Instructor Michael J. Nowak 
-
-Object Oriented Development 
-
-Fall 2019 – Term 1 
-
-Week 8 – Final Project
-
-
 In this program (App.java), I intended to create a fun demo of sample design patterns 
-studied in Object Oriented Development at Lewis University.  I used the Observer, Decorator, 
+studied in Object Oriented Design at Lewis University.  I used the Observer, Decorator, 
 Factory, and Template patterns to display, via JavaFX, two sprite cars (one controlled by 
 the user, the other, automated) racing along a tiled street of randomly-varied terrain 
 toward an (initially) off-screen goal.  
