@@ -29,8 +29,7 @@ of Terrain-Tile forms a “street” for sprites.  For sprites, I implemented a 
 to control movement, with shared functions in an abstract Car class and variations held 
 in each concrete child (class PlayerCar and ComputerCar). 
 
-“Fun” is highly subjective, but I think this program succeeds, or shows potential, in creating fun, 
-as I often enjoyed testing it.  A formal J-unit test was also completed on the main method, which 
+I manually tested the program repeatedly and used a J-unit test on the main method, which 
 showed successful coverage of nearly all functions.  Those not covered were mostly of the class 
 instance “toString()” variety, which are not used yet but could be useful in the future.  
 
