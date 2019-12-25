@@ -1,5 +1,7 @@
 # lewis-ood-final_project
-An original, simple JavaFX car-racing simulator that demo's 4 design patterns.
+A simple car-racing simulator that demo's 4 design patterns.
+
+App.java requires JavaFX to run. 
 
 In this program (App.java), I intended to create a fun demo of sample design patterns 
 studied in Object Oriented Design at Lewis University.  I used the Observer, Decorator, 
