@@ -5,7 +5,7 @@ Add the JavaFX library to run App.java
 
 In this program (App.java), I intended to create a fun demo of design patterns 
 studied in Object Oriented Design at Lewis University.  I used the Observer, Decorator, 
-Factory, and Template patterns to display, via JavaFX, two sprite cars (one controlled by 
+Factory, and Template patterns to display two sprite cars (one controlled by 
 the user, the other, automated) racing along a tiled street of randomly-varied terrain 
 toward an (initially) off-screen goal.  
 
