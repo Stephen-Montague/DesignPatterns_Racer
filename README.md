@@ -3,7 +3,7 @@ A simple car-racing simulator that demo's 4 design patterns.
 
 Add the JavaFX library to run App.java 
 
-In this program (App.java), I intended to create a fun demo of sample design patterns 
+In this program (App.java), I intended to create a fun demo of design patterns 
 studied in Object Oriented Design at Lewis University.  I used the Observer, Decorator, 
 Factory, and Template patterns to display, via JavaFX, two sprite cars (one controlled by 
 the user, the other, automated) racing along a tiled street of randomly-varied terrain 
