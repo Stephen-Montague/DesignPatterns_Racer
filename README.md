@@ -1,4 +1,4 @@
-# lewis-ood-final_project
+# DesignPatterns_Racer
 A simple car-racing simulator that demo's 4 design patterns.
 
 The JavaFX library is required to run App.java 
@@ -21,8 +21,8 @@ collection of pseudo-randomly decorated Tile, and this ArrayList of Terrain-Tile
 For sprites, I implemented a Template pattern to control movement, with shared functions in an abstract Car class
 and unique functions held in each concrete child (class PlayerCar and ComputerCar). 
 
-I manually tested the program repeatedly and used a J-unit test on the main method, which 
-showed successful coverage of nearly all functions.  Those not covered are not used yet 
+I manually tested the program and used a J-unit test on the main method, which 
+showed successful coverage of nearly all functions, with those not covered not yet in use  
 but could be useful in the future.  
 
 On future potential, I could expand the simulated Terrain to cover the entire screen, enabling 
